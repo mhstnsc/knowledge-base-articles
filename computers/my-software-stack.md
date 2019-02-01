@@ -2,6 +2,15 @@
 
 # Linux
 
+### Dev
+* `sysbench` - sql stress
+
+### Usability
+
+* `doublecmd` - gui based replacement
+* `Safe_eyes` - exercise your eyes from time to time
+* [indicator-multiload](https://launchpad.net/indicator-multiload) - works only with unity, 
+* `gnome-desktop-item-edit ~/Desktop --create-new` - visual create .desktop entries so you can link them in the launcher
 
 
 # Windows
@@ -11,7 +20,6 @@
 * [Handbrake] video encoder (does not have trimming)
 
 ### System tools
-
 
 * Notepad++ - Free editor
 * Unreal commander - Free replacement to total commander
