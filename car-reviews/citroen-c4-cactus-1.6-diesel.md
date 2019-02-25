@@ -12,3 +12,4 @@
 * cockpit has a decluthered feeling
 * :x: no sensors for front side
 * :x: quite noisy engine inside and strange vibrations at low rpm
+* :x: front water spray was quite bad and took several attempts to leave the window clean
