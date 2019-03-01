@@ -2,7 +2,7 @@
 ## Context
 
 * 7 day ski holiday
-* rented car 30k km, automatic gears, 1.6l
+* rented car 30k km, automatic gears, 1.6l, gas
 
 ## Comments
 
