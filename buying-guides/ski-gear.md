@@ -26,7 +26,7 @@ Ski boots
 
 ## Flexing
 
-Flexing is important and comes to play in case of shocks. Boots should not be too stiff or too flexing. 
+Flexing is important and comes to play in case of absorbing shocks, energy transfer, etc . Boots should not be too stiff or too flexing. 
 * There is no standard flex index consistent between producers
 * flex index is consistent between same producer (generally :)
 * touring boots are generally less flexible than alpine boots at the same flex index
