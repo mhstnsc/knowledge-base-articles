@@ -1,4 +1,5 @@
 
+* [Travel log map](https://drive.google.com/open?id=1r2S03tlPIhf4SJaADUwqeGd1JL4&usp=sharing)
 
 # Ski touring
 * [SLF: Avalance report](http://slf.ch)
