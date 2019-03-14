@@ -19,6 +19,7 @@
 * [indicator-multiload](https://launchpad.net/indicator-multiload) - works only with unity, 
 * `gnome-desktop-item-edit ~/Desktop --create-new` - visual create .desktop entries so you can link them in the launcher
 * `screenshot`
+* [Cluster SSH](https://github.com/duncs/clusterssh) - ssh multiple machines and type same thing.
 
 
 # Windows
