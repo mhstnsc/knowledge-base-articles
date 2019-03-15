@@ -20,6 +20,8 @@
 * `gnome-desktop-item-edit ~/Desktop --create-new` - visual create .desktop entries so you can link them in the launcher
 * `screenshot`
 * [Cluster SSH](https://github.com/duncs/clusterssh) - ssh multiple machines and type same thing.
+* `yakuake` - Dropdown terminal KDE based (works with unity), feels like Konsole [Other dropdowns here](https://www.slant.co/topics/4861/~linux-terminal-emulators-that-are-dropdown-or-can-be-configured-as-such)
+* `konsole` - KDE based terminal. Has nice feature to cleanup console with CTRL+K
 
 
 # Windows
