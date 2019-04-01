@@ -2,7 +2,7 @@
 * [Mihai travel log map](https://drive.google.com/open?id=1r2S03tlPIhf4SJaADUwqeGd1JL4&usp=sharing)
 
 # Grilling
-* (Map with firepits)[https://grillstelle.ch/]
+* [Map with firepits](https://grillstelle.ch/)
 
 # Ski touring
 * [SLF: Avalance report](http://slf.ch)
