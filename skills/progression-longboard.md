@@ -1,4 +1,9 @@
 
+* carve
+* pump
+* carve on one foot and the other
+* do all the above in switch position
+
 https://www.youtube.com/watch?v=2LHlEL8fCZQ
 
 * cross step
