@@ -1,6 +1,6 @@
 At a glance:
 * 3-4 nights/4-5 days seem enough for **diamond circle** in the north => whales, vulcanoes, thermal, puffins(average), wild nature
-* 2-3 nights/3-4 days seem enoug for the south => majestic waterfalls, blue lagoon, glacier golf, vulcano beach, airplane wrek, puffin colonies
+* 2-3 nights/3-4 days seem enoug for the south => majestic waterfalls, blue lagoon, glacier golf, vulcano beach, airplane wrek, puffin colonies, glacier hikes
 
 Collected attractions map: 
 
