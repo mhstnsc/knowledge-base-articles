@@ -2,7 +2,8 @@ At a glance:
 * 3-4 nights/4-5 days seem enough for **diamond circle** in the north => whales, vulcanoes, thermal, puffins(average), wild nature
 * 2-3 nights/3-4 days seem enoug for the south => majestic waterfalls, blue lagoon, glacier golf, vulcano beach, airplane wrek, puffin colonies, glacier hikes
 
-Collected attractions map: 
+My iceland map (attractions with comments, so far based on internet resources): 
+https://www.google.com/maps/@64.7976704,-19.9579127,7z/data=!3m1!4b1!4m2!6m1!1s1ZQkO1dbmQ9uGR59IOkuZh8FV9UMehN-B
 
 # Multi-day tour/vacations reports
 
@@ -29,7 +30,7 @@ The Diamond Circle covers an area rich in volcanic and geothermal features.[2]
 
 # Wildlife
 
-* [widlife guide - adventures.is](https://adventures.is/information/arctic-bestiary-wildlife-guide/)
+* [widlife guides start point - adventures.is](https://adventures.is/information/arctic-bestiary-wildlife-guide/)
 * [puffins guide - includes map of locations]()
 
 # Puffins
