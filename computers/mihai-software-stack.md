@@ -15,6 +15,7 @@
 ### Usability
 
 * `doublecmd` - mc replacement
+* `fman` - mc replacement (linux, mac)
 * `Safe_eyes` - exercise your eyes from time to time
 * [indicator-multiload](https://launchpad.net/indicator-multiload) - works only with unity, 
 * `gnome-desktop-item-edit ~/Desktop --create-new` - visual create .desktop entries so you can link them in the launcher
