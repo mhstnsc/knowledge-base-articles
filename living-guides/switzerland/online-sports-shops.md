@@ -1,5 +1,5 @@
 
-* (sportscheck.ch) - DiePost
-* (bergzeit.ch) - DiePost
-* (conrad-sport.ch)
+* [sportscheck.ch] - DiePost
+* [bergzeit.ch] - DiePost
+* [conrad-sport.de]
 * 
