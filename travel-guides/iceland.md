@@ -5,6 +5,12 @@ At a glance:
 My iceland map (attractions with comments, so far based on internet resources): 
 https://www.google.com/maps/@64.7976704,-19.9579127,7z/data=!3m1!4b1!4m2!6m1!1s1ZQkO1dbmQ9uGR59IOkuZh8FV9UMehN-B
 
+# wisdom
+* season: april to may is much much cheaper and anyway is dry, some campings might be closed and whale season just starts
+* campervans: can be expensive in high season to even 350euro/day
+* puffins: Never approach too close to the cliff edges as the burrows that the puffins have dug make the ground lose and hollow!
+* whales: Small boats and big waves 
+
 # Multi-day tour/vacations reports
 
 * blogger, spent too much time in south.  https://theblondeabroad.com/my-10-day-iceland-ring-road-itinerary/
