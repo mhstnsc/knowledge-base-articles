@@ -25,3 +25,7 @@
 * High performance code paths, double check on performance issues?
 * Background jobs: Do they have record beginning and end of processing
 * Background jobs: How much data do they consume?
+* Database: Do you have queries with no indices?
+* Database: Do you have frequent writes? Might fry the performance.
+* Distributed Data Structures: Does the operation scale with increased number of nodes?
+
