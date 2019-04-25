@@ -28,4 +28,5 @@
 * Database: Do you have queries with no indices?
 * Database: Do you have frequent writes? Might fry the performance.
 * Distributed Data Structures: Does the operation scale with increased number of nodes?
+* High Availabilty: If you keep data in distributed data structures, is it possible to have an HA leak? 
 
