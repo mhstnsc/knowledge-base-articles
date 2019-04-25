@@ -15,6 +15,7 @@
 * **write code first and then the tests** - if you write the test before you might need to change it as you realize that your initial API won't be good
 * **focus on tests for hard to reproduce cases**
 * **prefer integration tests / bigger units** - class-level unit tests work most for leaf-code but preferably take bigger units so you catch integration problems faster and you write and maintain less tests
+* **assume your tests will run in parallel**
 
 # Reviewer check-list
 
