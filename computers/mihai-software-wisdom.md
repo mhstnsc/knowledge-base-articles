@@ -8,9 +8,15 @@
 
 * prefer toolkits (unoppionated) to frameworks (oppionated)
 * best frameworks are the frameworks you developed
+* one class, one idea
 
 # Testing
 
 * **write code first and then the tests** - if you write the test before you might need to change it as you realize that your initial API won't be good
-* **tests for hard to reproduce cases**
+* **focus on tests for hard to reproduce cases**
 * **prefer integration tests / bigger units** - class-level unit tests work most for leaf-code but preferably take bigger units so you catch integration problems faster and you write and maintain less tests
+
+# Reviewer check-list
+
+* Long operations, can there be parallel operations changing the same data?
+* Does the code look reasonably readable?
