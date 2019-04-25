@@ -1,7 +1,7 @@
 
 # System design
 
-* **focus on contracts between modules** - Then you can have a mess in the impl.
+* **focus on elegant/well documented contracts between modules** - Then you can have a mess in the impl.
 * **ownership of the data belongs to the service writing it** - The consumer services can be eventually consistent. The reason is that its easier to have read-after-write semantic this way. The consumers will not need this anyway. Example: If many services require configuration then you can have a configuration r/w API in each service or you can have a configuration service to write config and replicate to consumer services. According to the wisdom, you should take the second option.
 
 # Coding
