@@ -19,4 +19,9 @@
 # Reviewer check-list
 
 * Long operations, can there be parallel operations changing the same data?
+* Async operation response, does the initial conditions still hold? 
 * Does the code look reasonably readable?
+* Atomicity, does the multi step operation handles atomicity/eventual consistency well?
+* High performance code paths, double check on performance issues?
+* Background jobs: Do they have record beginning and end of processing
+* Background jobs: How much data do they consume?
