@@ -2,6 +2,9 @@
 * [Mihai's travel log map](https://drive.google.com/open?id=1r2S03tlPIhf4SJaADUwqeGd1JL4&usp=sharing)
 * [Map with firepits for grilling](https://grillstelle.ch/)
 
+## Accomodation
+* alpine huts, nice availability calendars: https://alp.holidaybooking.ch/?language=en
+
 ## Driving
 * [mountain-pass street open status](https://www.myswissalps.com/car/trafficinfo)
 
