@@ -11,6 +11,7 @@
 
 ## Driving
 * [mountain-pass street open status](https://www.myswissalps.com/car/trafficinfo)
+* rent campers https://mycamper.ch/en
 
 ## Mountaineering
 * [SAC Swiss Alpine Club - courses, activities, news, cabins](https://www.sac-cas.ch)
