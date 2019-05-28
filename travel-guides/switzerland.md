@@ -5,6 +5,10 @@
 ## Accomodation
 * alpine huts, nice availability calendars: https://alp.holidaybooking.ch/?language=en
 
+## Water
+* rent boats close to zurich (permit required) www.boat4rent.ch
+* rent boat without permit (the couch boat) see Hensa
+
 ## Driving
 * [mountain-pass street open status](https://www.myswissalps.com/car/trafficinfo)
 
