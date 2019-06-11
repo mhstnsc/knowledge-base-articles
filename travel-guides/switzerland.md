@@ -1,7 +1,6 @@
 
 * [Mihai's travel log map](https://drive.google.com/open?id=1r2S03tlPIhf4SJaADUwqeGd1JL4&usp=sharing)
 * [Map with firepits for grilling](https://grillstelle.ch/)
-* [Wild camping rules](https://www.sac-cas.ch/de/umwelt/bergsport-und-umwelt/campieren-und-biwakieren/)
 
 ## Accomodation
 * alpine huts, nice availability calendars: https://alp.holidaybooking.ch/?language=en
@@ -16,6 +15,7 @@
 
 ## Mountaineering
 * [SAC Swiss Alpine Club - courses, activities, news, cabins](https://www.sac-cas.ch)
+* [Wild camping rules](https://www.sac-cas.ch/de/umwelt/bergsport-und-umwelt/campieren-und-biwakieren/)
 
 ### Ski touring
 * [SLF: Avalance report](http://slf.ch)
