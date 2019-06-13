@@ -13,9 +13,9 @@ Source:
 * 2 tablespoons juice or cider
 
 ##### Day 4: (and once daily until it starts to expand and smell yeasty), mix . . .
-* 2 oz. of the starter (1/4 cup after stirring down-discard the rest)
-* 1 oz. flour** (scant 1/4 cup)
-* 1 oz. water (2 tablespoons)
+* 2 oz. (50g) of the starter (1/4 cup after stirring down-discard the rest)
+* 1 oz. (25g) flour** (scant 1/4 cup)
+* 1 oz. (25g) water (2 tablespoons)
 
 * Organic is not a requirement, nor does it need to be freshly ground.
 
