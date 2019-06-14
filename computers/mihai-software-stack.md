@@ -25,6 +25,7 @@
 * `konsole` - KDE based terminal. Has nice feature to cleanup console with CTRL+K
 * `kdiff3` - 3 way diff tool for git
 * `git-cola` - selective commit for git
+* `unity` - desktop manager
 
 
 # Windows
