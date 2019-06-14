@@ -23,6 +23,8 @@
 * [Cluster SSH](https://github.com/duncs/clusterssh) - ssh multiple machines and type same thing.
 * `yakuake` - Dropdown terminal KDE based (works with unity), feels like Konsole [Other dropdowns here](https://www.slant.co/topics/4861/~linux-terminal-emulators-that-are-dropdown-or-can-be-configured-as-such)
 * `konsole` - KDE based terminal. Has nice feature to cleanup console with CTRL+K
+* `kdiff3` - 3 way diff tool for git
+* `git-cola` - selective commit for git
 
 
 # Windows
