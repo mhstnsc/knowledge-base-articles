@@ -4,6 +4,7 @@
 
 ## Accomodation
 * alpine huts, nice availability calendars: https://alp.holidaybooking.ch/?language=en
+* renovated old houses, looking great: http://www.magnificasa.ch/index.php?id=879&L=0
 
 ## Water
 * rent boats close to zurich (permit required) www.boat4rent.ch
