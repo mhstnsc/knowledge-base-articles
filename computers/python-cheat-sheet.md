@@ -1,38 +1,23 @@
 
-## Structure
+## Syntax
 
-#### Include py from a fixed relative path
-
-```python
-
-```
-
-
-## Collections
-
-```
-# list comprehensions
-[x for x in collection]
-```
+* `[x for x in collection]`
+* `str[begin:end]` - select from string a string (probably also collection)
 
 ## Date time
 
-* Parse string with format into date time object
-``` 
-from datetime import datetime
-a = datetime.strptime('30/03/09 16:31:32.123', '%d/%m/%y %H:%M:%S.%f')
-a.microsecond
-```
+* String to date-time object
+  ``` 
+  from datetime import datetime
+  a = datetime.strptime('30/03/09 16:31:32.123', '%d/%m/%y %H:%M:%S.%f')
+  a.microsecond
+  ```
 
 ## Printing stuff
 
-#### Indent left with fixed overall space
+* `"%-6s" % name` -  Indent left with fixed overall space
 
-```
-%-6s %-50s %-25s\n" % (code, name, industry)
-```
-```plantuml
-a->b
-```
-
+## Libraries
+ * tatsu (ebnf grammar parsing) - nice experience with it, can match by power of regexp (even with lookahead) and then can manipulate the syntax tree
+ 
 
