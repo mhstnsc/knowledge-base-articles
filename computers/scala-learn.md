@@ -1,3 +1,17 @@
+
+ * multiple parameter list and bracket invocation (somehow confusing IMO, one can just write params on each line)
+   ```
+   def f(a: A)(b:(T,U)=>V) 
+   f(a) { (x,y) => x+y }
+   ```
+ * function type 
+   * `(A, B) => C`, 
+   * `A => B`
+ * function literal 
+   * `(parameter: type, ...) => expression`
+   * `(_ * _)` expands `(a, b) => a + b`
+   
+
 ### Algebraic data types ###
 
 Data using the **"has-a and"** pattern is known as a product type, 
