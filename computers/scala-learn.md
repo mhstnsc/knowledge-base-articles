@@ -49,10 +49,13 @@
   * `flatMap(f:A=>My[B]):My[B]`
 
 
-### Design guidelines - Structural recursion declarations ###
+#### Design guidelines - Structural recursion declarations ####
 
 The general rule is: 
 * if a method only depends on other fields and methods in a class it is a good candidate to be implemented inside the class. 
 * If the method depends on other data (for example, if we needed a Cook to make dinner) consider implementing is using pattern matching outside of the classes in question. 
 * If we want to have more than one implementation we should use pattern matching and implement it outside the classes.
 
+#### Tests ####
+
+  * `name should matchPattern { case Name("Sarah", _, _) => }`
