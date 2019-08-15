@@ -59,3 +59,9 @@ The general rule is:
 #### Tests ####
 
   * `name should matchPattern { case Name("Sarah", _, _) => }`
+  * 
+    ```
+    assertThrows[IndexOutOfBoundsException] { // Result type: Assertion
+      s.charAt(-1)
+    }
+    ```
