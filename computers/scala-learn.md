@@ -11,6 +11,16 @@
  * function literal 
    * `(parameter: type, ...) => expression`
    * `(_ * _)` expands `(a, b) => a + b`
+ * for-comprehensions
+   * `for( bla;bla ) yield x`
+   * 
+      ```
+      for { 
+         bla
+         bla
+      } yield x
+      ```
+      
    
 ### Algebraic data types ###
 
