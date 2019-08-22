@@ -24,7 +24,11 @@
  * 
     * `TT >: T` declare a new `TT` as a supertype of `T`
     * `TT <: T` declare a new `TT` as a subtype of `T`
+ * Trailing colon makes things right associative. `0 +: list`
  
+#### Sequences ####
+ * `:+` append, `+:` prepend, `++` concat
+ * 
       
    
 ### Algebraic data types ###
@@ -60,8 +64,16 @@
 
 #### Common function names ####
   * `fold` - recursively process data type to transform it into another one. Usually receives some lambda as param.
+  * `foldLeft` - Process from left to right associativ
+  * `foldright` - Process from right to left associative
   * `map(f:A=>B):My[B]`
   * `flatMap(f:A=>My[B]):My[B]`
+  * `foreach` - Process with side effects and no return
+  * `flatten` - Takes a collection of collections and returns a combined collectio
+  
+#### Patterns ####
+
+`filter(_.isDefined).map(_.get)` can be replaced with `flatten`
 
 
 #### Design guidelines - Structural recursion declarations ####
