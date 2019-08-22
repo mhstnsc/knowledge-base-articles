@@ -1,10 +1,5 @@
 ### Syntax ###
 
- * **multiple parameter list** and bracket invocation (somehow confusing IMO, one can just write params on each line)
-   ```
-   def f(a: A)(b:(T,U)=>V) 
-   f(a) { (x,y) => x+y }
-   ```
  * **function type**
    * `(A, B) => C`, 
    * `A => B`   
