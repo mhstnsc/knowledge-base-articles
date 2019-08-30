@@ -41,6 +41,10 @@
 
 ### Syntax ###
 
+ * **splat** - pass a list as expended params to variable param function
+   ```
+   f(array:_*)
+   ```
  * **function type**
    * `val x: (A, B) => R`, 
    * `val x: A => R`   
