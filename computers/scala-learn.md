@@ -1,10 +1,27 @@
 #### Patterns ####
 
-`Optional.filter(_.isDefined).map(_.get)` can be replaced with `flatten`
+ * `Optional.filter(_.isDefined).map(_.get)` can be replaced with `flatten`
+ * **Type class** 
+    ```
+    trait TypeClass[A] {
+        def extra(obj:A)
+    }
+    implicit class ExtraClassBinder[A](obj:A) {
+        def extra()(implicit typeClass:TypeClass[A]) = typeClass.extra(obj)
+    }
+    implicit val intTypeClassInstance = new TypeClass[Int] {
+        override def extra(obj: Int): Unit = print(s"This is extra for int $obj")
+    }
+    1.extra
+    ```
 
 #### Interesting things ####
 * `map` - If the argument to flatmap returns a tuple then the result is a map, otherwise is a traverable.
-* `implicits` -  the local scope takes precedence over instances found in companion objects
+* **Implicits lookup**
+    * local or inherited definitions
+    * imported definitions
+    * definitions in the companion object of the *type class or the parameter type*
+* `implicitly[A]` - get the instance of the implicit of A
 
 #### Tests ####
 
