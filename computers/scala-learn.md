@@ -11,8 +11,13 @@
     }
     implicit val intTypeClassInstance = new TypeClass[Int] {
         override def extra(obj: Int): Unit = print(s"This is extra for int $obj")
-    }
+    }    
     1.extra
+
+    implicit def reccursiveClassBinder[A](implicit typeClass:TypeClass[A]): TypeClass[Option[A]] = ???
+
+    Option(1).extra
+    
     ```
 
 #### Interesting things ####
