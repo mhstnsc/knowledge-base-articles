@@ -8,12 +8,14 @@
 
 #### Tests ####
 
-`name should matchPattern { case Name("Sarah", _, _) => }`
-```
-assertThrows[IndexOutOfBoundsException] { // Result type: Assertion
-  s.charAt(-1)
-}
-```
+ * `name should matchPattern { case Name("Sarah", _, _) => }`
+ * 
+    ```
+    assertThrows[IndexOutOfBoundsException] { // Result type: Assertion
+      s.charAt(-1)
+    }
+    ```
+ * Ignore test with FunSuiteTest, `ignore("bla")` 
 
 ### Syntax ###
 
