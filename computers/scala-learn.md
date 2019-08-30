@@ -1,33 +1,70 @@
+#### Patterns ####
+
+`Optional.filter(_.isDefined).map(_.get)` can be replaced with `flatten`
+
+#### Interesting things ####
+* `map` - If the argument to flatmap returns a tuple then the result is a map, otherwise is a traverable.
+* `implicits` -  the local scope takes precedence over instances found in companion objects
+
+#### Tests ####
+
+`name should matchPattern { case Name("Sarah", _, _) => }`
+```
+assertThrows[IndexOutOfBoundsException] { // Result type: Assertion
+  s.charAt(-1)
+}
+```
+
 ### Syntax ###
 
  * **function type**
-   * `(A, B) => C`, 
-   * `A => B`   
+   * `val x: (A, B) => R`, 
+   * `val x: A => R`   
  * **function literal **
    * `(parameter: type, ...) => expression`
    * `(_ * _)` expands `(a, b) => a + b`
  * **for-comprehensions**
-   * `for( bla;bla ) yield x`
-   * 
-      ```
-      for { 
-         bla
-         bla
-      } yield x
-      ```
- * `Foo[T]` is invariant, `Foo[+T]` is **covariant**, `F[-T]` is contravariant
- * 
+    ```
+    for { 
+       x <- a
+       x = a
+       if <cond>       
+    } yield x    
+    ```  
+ * **Variancy**
+    * `Foo[T]` is invariant, `Foo[+T]` is **covariant**, `F[-T]` is contravariant 
     * `TT >: T` declare a new `TT` as a supertype of `T`
     * `TT <: T` declare a new `TT` as a subtype of `T`
- * Trailing colon makes things right associative. `0 +: list`
+ * **Pattern matching**
+    * `case p @ Person(_, s)` allows to capture the whole match of the pattern match 
+ * Trailing colon makes things **right associative**. `0 +: list`
+ * **Context bound** `[A : Context]` expands into generic type parameter `[A]` along with an implicit parameter for a `Context[A]`. Access the member with implicitly[A]
  
-#### Sequences ####
- * `:+` append, `+:` prepend, `++` concat
- * 
-      
+#### Notable function names ####
+  * `fold` - recursively process data type to transform it into another one. Usually receives some lambda as param.
+  * `foldLeft` - Process from left to right associativ
+  * `foldright` - Process from right to left associative
+  * `map(f: A=>B): My[B]`
+  * `flatMap(f: A=>My[B]): My[B]`
+  * `foreach` - Process with side effects and no return
+  * `flatten` - Takes a collection of collections and returns a combined collection   
    
-### Algebraic data types ###
+#### Collections ####
+ * `List`
+ * `Stream` - lazy eval / infinite
+ * `Vector` - random access
+ * `Buffer` - efficiently create a data structure an item at a time
+ * `StringBuilder`
+ * `LinkedList`, `DoubleLinkedList`
 
+#### Collection operations ####
+  * `:+` append, `+:` prepend, `++` concat
+  * `view` - on a collection avoid creating intermediate data structures. Its worth for many elements otherwise its an overhead
+  * `asJava` / `asScala` - its converting to java data structures
+  * `<collection>.view` - on a collection avoid creating intermediate data structures. Its worth for many elements otherwise its an overhead
+  * `<mutable>.update` / `<mutable>(index) = <val>` - to update a mutable collection
+ 
+### Algebraic data types ###
 
 * product type => "has-a and" pattern. E.g `Tuple`
    ```
@@ -56,19 +93,11 @@
    trait C
    class A extends B with C
    ```
-
-#### Common function names ####
-  * `fold` - recursively process data type to transform it into another one. Usually receives some lambda as param.
-  * `foldLeft` - Process from left to right associativ
-  * `foldright` - Process from right to left associative
-  * `map(f:A=>B):My[B]`
-  * `flatMap(f:A=>My[B]):My[B]`
-  * `foreach` - Process with side effects and no return
-  * `flatten` - Takes a collection of collections and returns a combined collectio
   
-#### Patterns ####
-
-`filter(_.isDefined).map(_.get)` can be replaced with `flatten`
+#### Common types ####
+  * `monad` - a monad is a generic type that allows us to sequence computations while abstracting away some technicality.
+  * `cats.EitherT` - 
+  * `type classes` - Type classes allow us to extend existing libraries with new functionality, without using inheritance and without having access to the original library source code
 
 
 #### Design guidelines - Structural recursion declarations ####
@@ -95,12 +124,11 @@ The general rule is:
    }
    ```
 
-#### Tests ####
+#### Not cool things (Personal opinion) ####
 
-  * `name should matchPattern { case Name("Sarah", _, _) => }`
-  * 
-    ```
-    assertThrows[IndexOutOfBoundsException] { // Result type: Assertion
-      s.charAt(-1)
-    }
-    ```
+* Creative operator like names for collection operations like adding and removing from map (its not combining homogenous items so does not justify such a syntax). Once you see a + b one assumes its a math operation and not addition to a map so you need more context to understand it. Operators cannot be searched with find. This makes it hard to locate all the additions to maps in the code for example. 
+* Using inheritance to compose functionality (by reading the code one cannot see from where things are comming, it could be down the inheritance tree). OOP was left behind long time ago. You end up eating time on making the type system work just to write a few characters less which probably makes no difference to a company well-being. 
+* Augmenting with Type classes and usage of implicits. Things are popping up out of nowhere, this makes getting into a new project very slow as many things happen behind the scenes. In the end you end up showing the implicits while they could have just been made explicit. 
+* Language is optimized to be concice to write but in big projects it should be optimized to be easy to get into new code. The author of the code does not need to have concise code because knows the code anyway. Code should be optimized for new people looking to new code.
+* Does type classes make sense? Why not wrapping or just replacing? 
+* Poor documentation of scalaz makes things hard to get into
