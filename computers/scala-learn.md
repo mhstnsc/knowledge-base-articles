@@ -41,11 +41,9 @@ assertThrows[IndexOutOfBoundsException] { // Result type: Assertion
  * **Context bound** `[A : Context]` expands into generic type parameter `[A]` along with an implicit parameter for a `Context[A]`. Access the member with implicitly[A]
  
 #### Notable function names ####
-  * `fold` - recursively process data type to transform it into another one. Usually receives some lambda as param.
+  * `fold` - recursively process data type to transform it into another one.
   * `foldLeft` - Process from left to right associativ
   * `foldright` - Process from right to left associative
-  * `map(f: A=>B): My[B]`
-  * `flatMap(f: A=>My[B]): My[B]`
   * `foreach` - Process with side effects and no return
   * `flatten` - Takes a collection of collections and returns a combined collection   
    
