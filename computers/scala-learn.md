@@ -133,6 +133,10 @@ The general rule is:
 * If the method depends on other data (for example, if we needed a Cook to make dinner) consider implementing is using pattern matching outside of the classes in question. 
 * If we want to have more than one implementation we should use pattern matching and implement it outside the classes.
 
+### Variance ###
+ * covariance is usually good for parameters & collections
+ * contravariance is for processes.
+
 #### Covariance ####
 * We should only use covariant types where the container type is immutable. If the container allows mutation we should only use invariant types.
 * sum type if we consider that C is not generic
