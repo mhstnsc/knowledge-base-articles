@@ -17,6 +17,7 @@
 ## Mountaineering
 * [SAC Swiss Alpine Club - courses, activities, news, cabins](https://www.sac-cas.ch)
 * [Wild camping rules](https://www.sac-cas.ch/de/umwelt/bergsport-und-umwelt/campieren-und-biwakieren/)
+* [SAC difficulty levels](https://www.sac-cas.ch/en/ausbildung-und-wissen/tourenplanung/grading-systems/)
 
 ### Ski touring
 * [SLF: Avalance report](http://slf.ch)
