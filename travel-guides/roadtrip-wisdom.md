@@ -13,5 +13,5 @@ Its anoying because you might just want to go eat someplace before reaching camp
 VW california review
 * more than 2 people seems horror in this thing
 * it is cold on the top compartment
-* little storage inside
-* little storage because of the bed practically the trunk is a little thing.
+* the trunk is not accessible from inside so you have to go outside. If its rain and cold, that's not cool.
+* little storage because of the bed practically the trunk is a little thing, mostly likely, more than 2 people are hard to fit.
