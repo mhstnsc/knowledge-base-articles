@@ -7,6 +7,12 @@
 
 <!-- toc -->
 
+# MacOS
+* `iterm2`
+  ** has dropdown if you got to "Preferences/hotkeys/...."
+* `BetterTouch` [paid] can assign hotkeys to apps
+* virtual desktop are cool
+
 # Linux
 
 ### Dev
