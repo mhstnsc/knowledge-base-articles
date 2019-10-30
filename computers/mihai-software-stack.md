@@ -1,3 +1,5 @@
+- [MacOS](#macos)
+    + [Wisdom](#macos-wisdom)
 - [Linux](#linux)
     + [Dev](#dev)
     + [Usability](#usability)
@@ -12,6 +14,9 @@
   ** has dropdown if you got to "Preferences/hotkeys/...."
 * `BetterTouch` [paid] can assign hotkeys to apps
 * virtual desktop are cool
+
+### MacOS Wisdom
+* `.profile` will not be run by bash if you have a `.bash_profile`. From [here](https://apple.stackexchange.com/questions/14651/where-are-environment-variables-specified-when-profile-bash-login-bash-prof/14655#14655)
 
 # Linux
 
