@@ -17,6 +17,7 @@
 ### MacOS Wisdom
 * `.profile` will not be run by bash if you have a `.bash_profile`. From [here](https://apple.stackexchange.com/questions/14651/where-are-environment-variables-specified-when-profile-bash-login-bash-prof/14655#14655)
 * virtual desktops are cool
+* Xcode->Open Developer Tool->OtherTools->NetworkLinkConditioner can simulate various network problems including 100% drop
 
 # Linux
 
