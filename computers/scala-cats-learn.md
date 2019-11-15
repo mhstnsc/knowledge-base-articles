@@ -3,7 +3,8 @@ The usual imports (seems like importing all breaks the semigroup)
 
 ```
 import cats.<bla>
-import cats.syntax.<bla>._
+import cats.syntax.flatmap._
+import cats.syntax.functor._ .  // gives map
 import cats.implicits.int._
 import cats.implicits.string._
 ```
@@ -42,7 +43,7 @@ import cats.implicits.string._
     def imap[A, B](fa: F[A])(f: A => B)(g: B => A): F[B] // prepends and appends to the chain
   }
   ```
-
+* `def pure[A](v: A): Monad[A]` - takes a pure value and wraps it.
 
 ## Higher Kinded Types ##
 Kinds are like types for types. They describe the number of “holes” in a type
@@ -54,6 +55,14 @@ Kinds are like types for types. They describe the number of “holes” in a typ
 * `Functor`
 * `Contravariant`
 * `Invariant`
+* `Eval` - wrapps a computation as a monad and captures the evaluation semantics (lazy, eager, memoised). The `map` and `flatmap` methods are trampolined (stack overload safe by moving stack to heap)
+* `Writer[W, R]` - Monad used to record a log for the computation. `W` is the log type and `R` is the result. 
+* `Reader[
+
+## Useful functions ##
+* `Either.asRight[A]` - e.g `1.asRight[Int]
+
+
 
 
 
