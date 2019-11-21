@@ -57,7 +57,7 @@ Kinds are like types for types. They describe the number of “holes” in a typ
 * `Invariant`
 * `Eval` - wrapps a computation as a monad and captures the evaluation semantics (lazy, eager, memoised). The `map` and `flatmap` methods are trampolined (stack overload safe by moving stack to heap)
 * `Writer[W, R]` - Monad used to record a log for the computation. `W` is the log type and `R` is the result. 
-* `Reader[
+* `Reader[] - Common use  case is for dependency injection
 
 ## Useful functions ##
 * `Either.asRight[A]` - e.g `1.asRight[Int]
