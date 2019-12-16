@@ -45,5 +45,9 @@ How to test:
 # Gloves
 * if you got cold fingers, get a pair of mittens
 
+# Reviews
+
+
 # External resources
 * [blister review](https://blisterreview.com/) - cool boot reviews
+* my reviews [ski boots](https://github.com/mhstnsc/knowledge-base-articles/blob/master/reviews/ski-boots.md)
