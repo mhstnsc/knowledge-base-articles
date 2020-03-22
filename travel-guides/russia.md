@@ -3,6 +3,7 @@ Traveling to Russia requires a visa. The tourist visas are issued for 1/2 entrie
 Acquiring a visa from Switzerland
 
  * decide on a strict period 
+ * acquire a repatriation/health insurance policy confirmation for russia
  * acquire a tourist confirmation number / travel voucher
  
    There are some online services to order it however can also be done by some tourist agency however this means you will need to book
