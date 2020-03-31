@@ -37,3 +37,5 @@ general [https://deutsch.lingolia.com/en/](https://deutsch.lingolia.com/en/)
 Data science - https://towardsdatascience.com/5-online-courses-you-can-take-for-free-during-covid-19-epidemic-f5503161e861
 
 Unity offers it’s premium content for free during Corona times: [https://learn.unity.com/](https://learn.unity.com/)
+
+Cheat sheets - https://github.com/abhat222/Data-Science--Cheat-Sheet
