@@ -20,3 +20,7 @@ Acquiring a visa from Switzerland
    https://cibtvisas.ch/
    
    
+Things to do Moscow:
+ * art exhibitions https://garagemca.org/en/exhibitions
+ * 
+   
