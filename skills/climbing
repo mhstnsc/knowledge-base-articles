@@ -21,6 +21,6 @@
   * undo a quick draw and set it in opposite directions if no carabiener is available.
 
 ## clear route ## 
-  * make sure to clip to the rope if its not straight
+  * make sure to clip to the rope if its not vertical
   * leave one clip higher and climb back to make sure you do not swing huge distances when unclipping from the belayer rope
   
