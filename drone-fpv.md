@@ -7,12 +7,16 @@
  * RTF drone - ready to fly
  * BNF drone - is missing the control receiver
  * whoop - small drone for indoor
+ * brushed vs brushless engines - brushless is faster
+
+## Environment specifics
+### Indoor
+ * 25 mW transmit power should be enough, 2.4 G should be enough for control
 
 ## Components
 
-
 #### Drones
-  * Whoop `Mobula 6` - 30g, indoor, 1s/2s, 3min time, good camera, no reverse throttle
+  * Whoop `Mobula 6` - 30g, indoor, 1s/2s, 3min time, good camera, no reverse throttle, brushless
   * Whoope TBS - reverse throttle
 
 #### Control feed
@@ -28,6 +32,8 @@ Studied transmitters
  * 25 mW however for more you need to study if it needs license
  * 5.8 GB signal
 
+#### Goggles
+ * box type looks like enough for starting
 
 ### Stores in china
  * https://banggood.com
