@@ -19,6 +19,6 @@
 
 ## Libraries
  * tatsu (ebnf grammar parsing) - nice experience with it, can match by power of regexp (even with lookahead) and then can manipulate the syntax tree
- * tenacity - retry library (not used)
+ * tenacity - retry library (not used) - https://github.com/jd/tenacity
  
 
