@@ -1,7 +1,7 @@
 
 ## Syntax
 
-* `[x for x in collection]`
+* `[x for x in collection]`, `{k,v for bla in collection}`, `tuple(i for i in collection)`
 * `str[begin:end]` - select from string a string (probably also collection)
 
 ## Date time
