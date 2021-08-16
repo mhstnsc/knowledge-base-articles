@@ -11,5 +11,5 @@
 
 # Parking
 
-* Blue zones need the disk between 9-11:30 and 13:30 to 18:00 and is allowed for 1h
+* Blue zones need the disk between 9-11:30 and 13:30 to 18:00 and is allowed for 1h. Central area does not have blue zones
 * [Order blue zone](https://www.stadt-zuerich.ch/pd/de/index/dav/parkkarten_bewilligungen/parkkarten_beziehen/tagesbewilligung_blauezone.html)
