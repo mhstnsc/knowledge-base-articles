@@ -26,3 +26,13 @@
 * [Schnee Touren Bus](https://schneetourenbus.ch/)
 * Bergfex tours - Mobile app with subscription can have offline topo maps
 
+## Season guides
+
+ * january => freeride
+ * april - june => white water kayak
+ * july => windsurf
+ * august => ticino hot summer, windsurf
+ * september => wild camping
+ * 1-20 oct => larch trees turn yellow in Engadin, around st moritz. Chamana Coaz, Poschivato
+ * november-december => snowshoes, low altitude Tx
+
