@@ -7,3 +7,10 @@
 
  * `df.sort_values([column1, columns2], ascending=[true,false])`. It can also apply a key function for index sorting, sort in place with `inplace`
  * `df.groupby(...).apply(lambda x: x.sort_values(..))` - sorting a group
+
+# iterating
+```
+for index, row in df.iterrows():
+  row['column1']
+```
+
