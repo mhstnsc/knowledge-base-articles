@@ -19,7 +19,13 @@
     for index, row in df.iterrows():
       row['column1']
     ```
- * dataframe - `df.iloc[10]`  - selecting row 10
+ * dataframe - selecting row by index - `df.iloc[10] -> Series` -> `row['column']`
+ * dataframe - selecting row by key
+   ```
+   idx = df.set_index(["col1","col2"])
+   row = idx.loc[("val_col1", "val_col2")]
+   row["col3"]
+   ```
  * groups - select a group - `df.groupby(...).get_group(<name>) -> DataFrame`
 
     
