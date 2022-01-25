@@ -6,7 +6,7 @@
 
 # map
  * group data - `df.groupby(...).apply(lambda df: ...) -> DataFrame`
- * `df['column'].apply(lambda v: ...) -> Series`
+ * map over a column - `df['column'].apply(lambda v: ...) -> Series`
 
 # sorting
 
