@@ -10,6 +10,10 @@ Total duration a picture is about
 
 Aprox 45min-1h / picture
 
+Choices:
+ * paper https://www.ilfordphoto.com/pick-the-perfect-paper/
+ * 
+
 With normal light:
  * verify the PH of the stop (should be around 3,4)
  * verify the PH & Aluminium of the fix
