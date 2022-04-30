@@ -5,9 +5,12 @@ Public transport
    I am not sure how this works when changing metro lines and going into another zone.
  * Airport is Zone 4 (for when you buy the ticket from the machine)
  * generally the old town is walkable in about 20 minutes. I found no need for taking public transport. 
+ * there are some cards which combine attractions with transport. AndanteCard or PortoCard
 
-Eating:
- * generally lots of good restaurants
- * special things
+Todo :
+ * generally lots of good restaurants, its better to move a bit higher than the river side where restaurants are more expensive
+ * eat Pastel de Nata
+ * buy canned sardines (some stores here...)
+ * 
 
 
