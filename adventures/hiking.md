@@ -1,5 +1,5 @@
 ## What to eat## 
-  - sandwich with bread and butter and some meat?
+  - focaccia
   - oven vegetables with olive oil (potatoes, carrots, peperoni) + feta
   - dry meat
   - nuts soaked (should be soaked to be easily digested and not lead to bloating)
@@ -7,7 +7,7 @@
   - protein bars
   - boiled eggs (1 / day)
   - avocado
-  - recovery pills (calcium + magnesium + d3 from Abtei)
+  - magnesium recovery pills (from Abtei)
 
 ## Stuff to take ##
   - garbage bags
@@ -18,4 +18,4 @@
   - cap (for sleeping)
   - cap for sun
   - sun-cream
-  - phone charger
+  - phone spare battery
