@@ -1,6 +1,3 @@
-The negative
-
- * Should not be super high contrast, then is hard to get, mostly just some special films do that
 
 
 Total duration a picture is about
@@ -12,7 +9,13 @@ Aprox 45min-1h / picture
 
 Choices:
  * paper https://www.ilfordphoto.com/pick-the-perfect-paper/
- * 
+ * the-negative: Should not be super high contrast, then is hard to get, mostly just some special films do that
+ * do you plan to dodge & burn? then you need to be prepared to cover some parts of the photos, eiher make cardboard with holes or just round stuff to cover faces and so on
+
+
+Rules:
+ * close the papers after you took one, you never know if someone opens the door
+ * do not leak light (e.g take photos with the phone, smart watches, etc)
 
 With normal light:
  * verify the PH of the stop (should be around 3,4)
@@ -24,7 +27,16 @@ With normal light:
     * adjust the projection to fit the frame (up - down)
     * adjust the focus by using the loupe, you should see the grain of the film
   * make a test with 2,4,8,16 using less paper or not
-  * start with whatever setting and make a full exposure (or another test, not sure)
+      * prepare a strip of paper and prepare another cardboard to cover progressively some parts. You should be able to cover all but a small part of the strip
+      * it is recommended to place the strip in the areas you want to get an idea how you are going to expose
+      * set the timer to 2 seconds
+      * expose so the exposure now is 2-2-2-2
+      * cover first slot and expose again => 2-4-4-4
+      * increase to 4 seconds timer
+      * cover second slot and expose again => 2-4-8-8
+      * increase to 8 seconds timer
+      * cover third slot and expose again => 2-4-8-16
+  * start with whatever setting you found during the test, set the timer and make a full exposure
   * once you got the expore right see if you need any corrections like touch & burn
   * put it to develop for 1m30s (keep shaking the trays)
   * put it to stop for 30s-1m
