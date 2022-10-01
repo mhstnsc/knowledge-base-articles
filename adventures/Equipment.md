@@ -15,7 +15,7 @@
     * VBL socks
 
 
-  - Stove
+  - Stove  
     The gas stove does not work well in cold temperatures because of loss of pressure. Alternatives are with liquid fuel.
     * Petzl Optimus
     * MSR Whisperlight international with pump
