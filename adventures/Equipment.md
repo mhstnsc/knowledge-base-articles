@@ -15,7 +15,21 @@
     * VBL socks
 
 
-  - Stove  
-    The gas stove does not work well in cold temperatures because of loss of pressure. Alternatives are with liquid fuel.
-    * Petzl Optimus
-    * MSR Whisperlight international with pump
+  - Cooking
+    A gas stove might not work well in cold because of the gas mix which does [not vaporize from certain temperatures](https://www.outdoors.org/resources/amc-outdoors/gear/why-do-canister-stoves-fail-in-cold/).   
+    
+    - Gas options
+      * [Primus Winter Gas](https://www.primusequipment.com/eu/en-gb/service-center/user-guides/gas-guide)
+   
+    - Stove options
+      * Petzl OmniFuel (Gas/Fuel)
+        * Flame control is difficult
+        * The fuel hole requires cleaning with some tool
+        * Heavier than MSR
+      * MSR Whisperlight international (Gas / Fuel)
+        * Cannot put small stuff on it 
+        * Has a burner which does not need clean
+        * Flame is more spread
+        * Flame control difficult
+      * MSR dragon fly (Fuel)
+        * Great flame control
