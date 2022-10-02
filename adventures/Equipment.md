@@ -1,4 +1,11 @@
 # Summer camping
+  
+  - Matress
+    * Thermarest Neoair XLite
+      * the mummy profile is annoying as hands or feet are sometimes out of the matress
+      * its REALY noisy.
+      * sleeping on the side is not great
+  
   - Boots
     * La Sportiva TX4 (so far the best shoes i've had)
       * super grip, best grip on all kind of surfaces
