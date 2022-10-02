@@ -1,3 +1,13 @@
+# Summer camping
+  - Boots
+    * La Sportiva TX4 (so far the best shoes i've had)
+      * super grip, best grip on all kind of surfaces
+      * takes a big time to break them
+      * rather flexible sole makes it easy to walk
+      * deemed as approach shoes, can be used for climbing
+      * the low profile makes it less adequate for 3k style peaks where loose rocks can hit the ankles which happened several times
+    * La Sportiva 
+
 # Winter camping
 
 
