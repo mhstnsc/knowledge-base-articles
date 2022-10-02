@@ -2,7 +2,8 @@
   
   - Sleeping bag
     * UGQ Bandit Quilt for -6 deg comfort.
-      * Sleeping with quilt is finicky because of the drafts. Especially if you're turning a lot
+      * Sleeping with quilt is finicky because of the drafts. Especially if you're turning a lot.
+      * Can attack quilt to the sides but this only works in theory. In practice when turning, the sides move the attackments move again. The quilt can also be clamped from each side together but then also touching the sleeping pad is not ideal because in cold temperatures the matress is also cold
   
   - Matress
     * Thermarest Neoair XLite
