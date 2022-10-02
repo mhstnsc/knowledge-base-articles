@@ -22,11 +22,11 @@
       * [Primus Winter Gas](https://www.primusequipment.com/eu/en-gb/service-center/user-guides/gas-guide)
    
     - Stove options
-      * Petzl OmniFuel (Gas/Fuel)
+      * [Petzl OmniFuel (Gas/Fuel)](https://www.youtube.com/watch?v=8wYzC6A8auM)
         * Flame control is difficult
         * The fuel hole requires cleaning with some tool
         * Heavier than MSR
-      * MSR Whisperlight international (Gas / Fuel)
+      * [MSR Whisperlight international (Gas / Fuel)](https://www.youtube.com/watch?v=8wYzC6A8auM)
         * Cannot put small stuff on it 
         * Has a burner which does not need clean
         * Flame is more spread
