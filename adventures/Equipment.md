@@ -1,5 +1,9 @@
 # Summer camping
   
+  - Sleeping bag
+    * UGQ Bandit Quilt for -6 deg comfort.
+      * Sleeping with quilt is finicky because of the drafts. Especially if you're turning a lot
+  
   - Matress
     * Thermarest Neoair XLite
       * the mummy profile is annoying as hands or feet are sometimes out of the matress
