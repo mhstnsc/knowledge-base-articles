@@ -3,7 +3,7 @@
   - Matress
     * Thermarest Neoair XLite
       * the mummy profile is annoying as hands or feet are sometimes out of the matress
-      * its REALY noisy.
+      * its REALY noisy, can wake you up when turning
       * sleeping on the side is not great
   
   - Boots
