@@ -55,3 +55,4 @@
         * Flame control difficult
       * MSR dragon fly (Fuel)
         * Great flame control
+  - Ski strap
