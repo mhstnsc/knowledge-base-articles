@@ -56,3 +56,16 @@
       * MSR dragon fly (Fuel)
         * Great flame control
   - Ski strap
+  - [Backpacks](https://www.berg-freunde.ch/tourenrucksaecke/volumen--45-59/fuer--unisex/?bfc-fuer[]=maenner)
+    Accordfing to my calculations a 45 liter should fit the bill but will not fit inside the extra matress so needs external straps
+    * [Black Diamond Cirque 45](https://www.blackdiamondequipment.com/en_US/product/cirque-45-pack/)
+      * 1kg
+      * good reviews from people 
+    * [Mammut trion 50](https://www.mammut.com/ch/de/products/2520-00850/trion-50) 
+      * 1.5kg
+      * safery gear pocket 
+      * high reviews from skiers
+      * no helmet net
+      * hard to strap the matress outside
+      * just one size
+    * 
