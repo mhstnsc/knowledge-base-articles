@@ -65,7 +65,12 @@
       * 1.5kg
       * safery gear pocket 
       * high reviews from skiers
-      * no helmet net
+      * **no helmet net**
       * hard to strap the matress outside
       * just one size
+    * [Blueice warthog 45](https://ch.blueice.com/products/warthog-45l-pack)
+      * 1 kg
+      * helmet
+      * not designed for skiing
+    * Exped does not have anything
     * 
