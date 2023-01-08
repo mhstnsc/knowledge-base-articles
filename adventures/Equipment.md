@@ -58,6 +58,18 @@
   - Ski strap
   - [Backpacks](https://www.berg-freunde.ch/tourenrucksaecke/volumen--45-59/fuer--unisex/?bfc-fuer[]=maenner)
     Accordfing to my calculations a 45 liter should fit the bill but will not fit inside the extra matress so needs external straps
+    * [Arcteryx Apha AR 55](https://www.bergzeit.ch/p/arcteryx-apha-ar-55-rucksack/5048248/#itemId=5048248-001)
+      * 1.4 kg
+      *  - does not have daisy chain in front
+      *  + side opening
+    * Deuter AirContact 50 + 5
+      * 1.2 kg
+      *  - no side opening
+      *  - no durable material (not made for rugged)
+    * [Mountain Equipment Tupilak 50-75](https://www.bergzeit.ch/p/mountain-equipment-tupilak-50-75-rucksack/5046575/#itemId=5046575-001)
+      * 1 kg
+      * no side opening
+      * some back strengthening
     * [Black Diamond Cirque 45](https://www.blackdiamondequipment.com/en_US/product/cirque-45-pack/)
       * 1kg
       * good reviews from people 
@@ -65,12 +77,9 @@
       * 1.5kg
       * safery gear pocket 
       * high reviews from skiers
-      * **no helmet net**
       * hard to strap the matress outside
       * just one size
     * [Blueice warthog 45](https://ch.blueice.com/products/warthog-45l-pack)
       * 1 kg
       * helmet
       * not designed for skiing
-    * Exped does not have anything
-    * 
