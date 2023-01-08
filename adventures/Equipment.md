@@ -62,6 +62,7 @@
       * 1.4 kg
       *  - does not have daisy chain in front
       *  + side opening
+      *  plastic buckles
     * Deuter AirContact 50 + 5
       * 1.2 kg
       *  - no side opening
