@@ -46,8 +46,9 @@ you feel you need more power to mix it
 7. Let it **boil** for 30 minutes
 8. Lower the heat, take the eggs and kind of stir them a bit to break them, like an omlette but not so much, gently drip the eggs into the soup. 
 It will start making like sheets of paper in the soup. Let them **boil** for 3-4 minutes.
-9. Take it off the fire
+9. Take it off the fire.
 10. **This is critical part** Start adding lemon juice, gradual and tasting, until the taste becomes balanced, its a subtle change, 
-you should not feel sour (or you could) but it should not feel sweet either
-11. Add salt to taste
-12. Serve using the ingredients for serving.
+you should not feel sour (or you could) but it should not feel sweet either.
+11. Add salt to taste.
+13. Add a spoon for chopped liebstockel.
+14. Serve using the ingredients for serving.
