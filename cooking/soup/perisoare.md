@@ -44,7 +44,7 @@ you feel you need more power to mix it
 5. Let it **boil** until you prepare the vegetables, i guess about 15-20 minutes
 6. Add the **roots, peperoni, tomato, onion** into the pot
 7. Let it **boil** for 30 minutes
-8. Take the eggs and kind of stir them a bit to break them, like an omlette but not so much, gently drip the eggs into the soup. 
+8. Lower the heat, take the eggs and kind of stir them a bit to break them, like an omlette but not so much, gently drip the eggs into the soup. 
 It will start making like sheets of paper in the soup. Let them **boil** for 3-4 minutes.
 9. Take it off the fire
 10. **This is critical part** Start adding lemon juice, gradual and tasting, until the taste becomes balanced, its a subtle change, 
