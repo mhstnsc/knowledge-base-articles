@@ -23,8 +23,9 @@
 # Winter camping
 
 
-  - Sleeping bags
-    According to weather history (see resources) the temperature on santis (2500m) peaks at -15 but is around -11.
+  - Sleeping bags.  
+    According to weather history (see resources) the temperature on santis (2500m) peaks at -15 but is around -11.  
+    Pay attention to the width, if there is too much space inside it won't be as warm as a snug fit
     * Western Mountaineering Kodiak - very wide girth, -11 comfort
     * Western Mountaineering Lynx MF - a bit narrow girth, -18 comfort (probably), big volume 18l, 1.5kg
     * (selected for the small size)  Mountain Hardwear Phantom -18 - narrow girth, -11 comfort, 9l packed, 1.2 kgweb
@@ -58,19 +59,10 @@
   - Ski strap
   - [Backpacks](https://www.berg-freunde.ch/tourenrucksaecke/volumen--45-59/fuer--unisex/?bfc-fuer[]=maenner)
     Accordfing to my calculations a 45 liter should fit the bill but will not fit inside the extra matress so needs external straps
-    * [Arcteryx Apha AR 55](https://www.bergzeit.ch/p/arcteryx-apha-ar-55-rucksack/5048248/#itemId=5048248-001)
-      * 1.4 kg
-      *  - does not have daisy chain in front
-      *  + side opening
-      *  plastic buckles
     * Deuter AirContact 50 + 5
       * 1.2 kg
       *  - no side opening
       *  - no durable material (not made for rugged)
-    * [Mountain Equipment Tupilak 50-75](https://www.bergzeit.ch/p/mountain-equipment-tupilak-50-75-rucksack/5046575/#itemId=5046575-001)
-      * 1 kg
-      * no side opening
-      * some back strengthening
     * [Black Diamond Cirque 45](https://www.blackdiamondequipment.com/en_US/product/cirque-45-pack/)
       * 1kg
       * good reviews from people 
@@ -84,3 +76,12 @@
       * 1 kg
       * helmet
       * not designed for skiing
+    * [Arcteryx Apha AR 55](https://www.bergzeit.ch/p/arcteryx-apha-ar-55-rucksack/5048248/#itemId=5048248-001)
+      * 1.4 kg
+      *  - does not have daisy chain in front
+      *  - plastic buckles
+      *  + side opening
+    * [Mountain Equipment Tupilak 50-75](https://www.bergzeit.ch/p/mountain-equipment-tupilak-50-75-rucksack/5046575/#itemId=5046575-001)
+      * + 1 kg
+      * - no back cussion
+      * - no small pockets
