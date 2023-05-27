@@ -15,6 +15,11 @@ Device accounts: https://customer.focusritegroup.com/en/my-hardware
   * `inst` - has no meaning for XLR
   * gain=0 & too high volume => `pad=on`
 * Drums (revisit the TODO)
+* h
 
 
 TODO: how to assign various channels to tracks in ableton
+
+
+Apps:
+  * to route, map, filter, convert, display, input and output MIDI messages in real-time. - http://www.subtlesoft.square7.net/MidiPipe.html
