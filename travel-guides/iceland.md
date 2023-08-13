@@ -9,7 +9,6 @@ https://www.google.com/maps/@64.7976704,-19.9579127,7z/data=!3m1!4b1!4m2!6m1!1s1
 * season: april to may is much much cheaper and anyway is dry, some campings might be closed and whale season just starts
 * campervans: can be expensive in high season to even 350euro/day
 * puffins: Never approach too close to the cliff edges as the burrows that the puffins have dug make the ground lose and hollow!
-* whales: Small boats and big waves 
 
 # Multi-day tour/vacations reports
 
@@ -18,26 +17,15 @@ https://www.google.com/maps/@64.7976704,-19.9579127,7z/data=!3m1!4b1!4m2!6m1!1s1
 * family, south coast , 7 days vacation - https://icelandunlimited.is/tours/family-travel/iceland-family-holiday-south-coast/
 * family, round tour, 10 days https://icelandunlimited.is/tours/iceland-family-vacation-10-days/
 * diamond circle in 4 nights - http://www.diamondcircle.is/the-whole-circle-5-days-4-nights/. **Regarding the Diamond Circle, this can be identified in 5 days(4 nights)** Such a span of days provides time to enjoy most of the highlights the Diamond has to offer and many of the available activities without being in a constant rush. If this is what you’re aiming at, the following itinerary may be of great help. We promise that it’s going to be a great adventure and that if there will be something you might regret, it will only be not having stayed even longer in this wonderful area.
-* diamond circle in 7 nights (extended tour) - 
-
-# Circles
-
-## Diamond circle
-
-The Diamond Circle covers an area rich in volcanic and geothermal features.[2]
-
-* http://www.diamondcircle.is/ - nice list of possible tours and list of attractions (pictures)
-* https://en.wikipedia.org/wiki/Diamond_Circle
+* diamond circle in 7 nights (extended tour) -
 * https://guidetoiceland.is/connect-with-locals/regina/57f6ca4c8426e (some traveler guide)
 
-## Golden Circle
-* a 1 day ring trip around rejkiavik (most touristy)
+# Circles
 
 
 # Wildlife
 
 * [widlife guides start point - adventures.is](https://adventures.is/information/arctic-bestiary-wildlife-guide/)
-* [puffins guide - includes map of locations]()
 
 # Puffins
 
