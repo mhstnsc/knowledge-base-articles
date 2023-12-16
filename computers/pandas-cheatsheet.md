@@ -5,7 +5,7 @@
  * group data - `df.groupby('A').filter(lambda x: x['bla'].mean() > 0)` <- filter groups
 
 # map
- * group data - `df.groupby(...).apply(lambda df: ...) -> DataFrame`
+ * group data - `df.groupby('column').apply(lambda df: f(df, df.name)) -> DataFrame`; df.name passes the value of the grouping 
  * map over a column - `df['column'].apply(lambda v: ...) -> Series`
  * map over each row - `df.apply(lambda series: ...., axis=1) -> series
 
