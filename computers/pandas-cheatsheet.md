@@ -34,6 +34,10 @@
 
 # selecting columns
  * by name: `df["column"]` or `df[["col1", "col2"]]`
+
+
+# combining
+ * join `pd.merge(df1, df2, on=['column', 'column'])`
     
 
 
