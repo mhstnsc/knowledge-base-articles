@@ -14,14 +14,16 @@
  * data-frame - `df.sort_values([column1, columns2], ascending=[true,false])`. It can also apply a key function for index sorting, sort in place with `inplace`
  * group-data - `df.groupby(...).apply(lambda x: x.sort_values(..))` - sorting a group
 
-# iterating & selecting
-
- *  data frame iteration
+# iterating 
+ * data frame iteration
     ```
     for index, row in df.iterrows():
       row['column1']
     ```
- * dataframe - selecting row by index - `df.iloc[10] -> Series` -> `row['column']`
+  * 
+# selecting rows
+
+ * dataframe - selecting row by index - `df.iloc[10] -> Series` -> `row['column']`, `df[start:end]`
  * dataframe - selecting row by key
    ```
    idx = df.set_index(["col1","col2"])
@@ -30,6 +32,8 @@
    ```
  * groups - select a group - `df.groupby(...).get_group(<name>) -> DataFrame`
 
+# selecting columns
+ * by name: `df["column"]` or `df[["col1", "col2"]]`
     
 
 
