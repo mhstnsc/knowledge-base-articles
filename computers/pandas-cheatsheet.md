@@ -1,6 +1,7 @@
 # filtering
  * dataframe - `df[df[<column>] > 0]`
  * dataframe - `df.query('column > 0 && column2 < 0')`
+ * dataframe - `df[df['column'].isin(elements)]`
  * series - `s[s > 0]`
  * group data - `df.groupby('A').filter(lambda x: x['bla'].mean() > 0)` <- filter groups
 
