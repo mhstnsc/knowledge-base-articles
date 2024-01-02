@@ -41,6 +41,10 @@
  * join `pd.merge(df1, df2, on=['column', 'column'])`
  * concet `pd.concat(df1, df2)`
 
+# plotting
+
+ * `df['your_column'].hist(bins=10)`
+
 # sampling
  * `df.sample(n=8)`
     
