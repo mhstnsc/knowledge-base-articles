@@ -9,11 +9,11 @@ Needed tools:
  - experiment on how to keep things at 20 degrees
  
 Preparation for 400ml:
- - [developer] EUROHC           => 12.5g + 387.5
- - [developer] Ilford DDX       => 80g + 320g
- - [stop] Ecostop Ars    (1:19) => 20g + 380g
- - [fixer] Universal Ars (1:7)  => 50g + 350g 
- - [washer] water               => 1.6l 
+ - [developer] EUROHC            => 12.5g + 387.5
+ - [developer] Ilford DDX (1:4)  => 80g + 320g
+ - [stop]  Ecostop Ars    (1:19) => 20g + 380g
+ - [fixer] Universal Ars  (1:7)  => 50g + 350g
+ - [washer] water                => 1.6l 
 
 Times
  - [develop] FP4-125  + EUROHC, 20deg  => 7-9 min continuous agitation for 15 seconds, then 5s every 30s, pour out 15 seconds before end
@@ -22,6 +22,7 @@ Times
  - [develop] TMAX-400 + EUROHC, 20deg => 6:00, 15sec agitation then 5 sec every 30 seconds
  - [develop] Delta 100 + DDX. , 20deg => 9:00, 10 sec every 60 seconds
  - [develop] TMAX-100  + DDX. , 20deg => 7:00, 10 sec every 60 seconds
+ - [develop] TMAX-400  + DDX. , 20deg => 8:00, 10 sec every 60 seconds
  - [stop]                         => 60 sec agitate continuously
  - [fix]                          => 6-8 min agitate for 15 seconds then 5s every 30sec
  - [wash]                         => 1.6 liters of water, pour a batch and agitate 10 times and repeat until no more water
@@ -30,6 +31,6 @@ Dry film:
  - 3-5 hours (bathroom is ideal)
 
 Disposal:
- - [Develop] chemical facility
- - [Stop] Can be poured down the drain
- - [Fix] Chemical facility 
+ - [Develop] => chemical facility
+ - [Stop]    => drain
+ - [Fix]     => Chemical facility 
