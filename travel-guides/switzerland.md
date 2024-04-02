@@ -29,10 +29,13 @@
 ## Season guides
 
  * january => freeride
+ * march
+   * 20 March - spring flowers, cherry blossom
+   * 2 april - green leaves in lowlands (lots of snow in the mountains, still snowing)
  * april - june => white water kayak
  * july => windsurf
- * august => ticino hot summer, windsurf
- * september => wild camping
+ * august => 
+ * september => 
  * 1-20 oct => larch trees turn yellow in Engadin, around st moritz. Chamana Coaz, Poschivato
  * november-december => snowshoes, low altitude Tx
 
