@@ -5,7 +5,7 @@
   * select the `Options` tab. 
   * Here you can enable the `Duplex unit`.
 
-## Raise a window using the keyboard
+### Raise a window using the keyboard
 
   * Create following script in `automator` and remember its `name`
 ```
