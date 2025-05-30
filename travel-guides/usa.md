@@ -16,7 +16,7 @@ Changes from EU style:
   * At a stop sign: you need to stop
   * at a traffic light:
      * you can always make right on red light (unless forbidden by a text)
-     * on green light, you can make left without worry unless specified otherwise (give permission to pedestrians)
+     * on green light, you can make left without worry unless specified otherwise
   * two yellow lines in the middle means a separation between directions (if its not there then its a one way street), useful in case of many lines
   * on highway
      * better to drive on the middle lines on highway if you are going straight. That is because the right ones usually go out and you might be caught on that
